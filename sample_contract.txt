@@ -5,6 +5,8 @@ This Agreement ("Agreement") is made and entered into as of [DATE] by and betwee
 **1. Services**
 
 Provider agrees to provide Customer with mobile internet access service (the "Service") on a pay-as-you-go basis. The Service includes:
+you cannot cancel this contract after 3 days.
+contract last 2 years.
 
 * Data allowance of [Data Amount] per [Billing Period] (e.g., 1GB per month)
 * [Optional: Include details on network speed (e.g., 4G LTE)]
@@ -20,6 +22,7 @@ This Agreement is for a one-month term and will automatically renew on a monthly
 **4. Fair Use Policy**
 
 Provider reserves the right to throttle data speeds or suspend service if Customer exceeds a reasonable usage limit.
+Prices may increase up tp 200 percent.
 
 **5. Customer Responsibilities**
 
