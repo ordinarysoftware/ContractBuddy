@@ -1,0 +1,75 @@
+## Sample Short Mobile Internet Contract
+
+This Agreement ("Agreement") is made and entered into as of [DATE] by and between [Your Name] ("Customer") and [Mobile Network Provider] ("Provider").
+
+**1. Services**
+
+Provider agrees to provide Customer with mobile internet access service (the "Service") on a pay-as-you-go basis. The Service includes:
+
+* Data allowance of [Data Amount] per [Billing Period] (e.g., 1GB per month)
+* [Optional: Include details on network speed (e.g., 4G LTE)]
+
+**2. Fees and Payment**
+
+The monthly service fee for the Service is [Amount]. Customer agrees to pay Provider for the Service within [Number] days of the invoice date. Late payments may incur a late fee of [Amount].
+
+**3. Term and Termination**
+
+This Agreement is for a one-month term and will automatically renew on a monthly basis thereafter unless terminated by either party with [Number] days' written notice. 
+
+**4. Fair Use Policy**
+
+Provider reserves the right to throttle data speeds or suspend service if Customer exceeds a reasonable usage limit.
+
+**5. Customer Responsibilities**
+
+Customer is responsible for:
+
+* Using the Service in accordance with Provider's Acceptable Use Policy.
+* Safeguarding their device and SIM card.
+
+**6. Disclaimer of Warranties**
+
+THE SERVICE IS PROVIDED "AS IS" AND PROVIDER DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+**7. Limitation of Liability**
+
+PROVIDER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT.
+
+**8. Governing Law**
+
+This Agreement shall be governed by and construed in accordance with the laws of [State].
+
+**9. Entire Agreement**
+
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous communications, representations, or agreements, whether oral or written.
+
+**10. Severability**
+
+If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall remain in full force and effect.
+
+**11. Notices**
+
+All notices required or permitted hereunder shall be in writing and shall be deemed to have been duly given when delivered in person, sent by certified or registered mail, postage prepaid, return receipt requested, or sent by overnight courier service to the addresses of the parties set forth below:
+
+**If to Customer:**
+
+[Your Name]
+[Your Address]
+
+**If to Provider:**
+
+[Mobile Network Provider]
+[Provider Address]
+
+**12. Waiver**
+
+No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any subsequent breach or default.
+
+**13. Binding Effect**
+
+This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns.
+
+**YOU SHOULD READ THIS AGREEMENT CAREFully BEFORE AGREEING TO IT. BY USING THE SERVICE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.**
+
+**Please note:** This is a sample contract and may not be suitable for all situations. You should consult with an attorney before entering into any contract.
