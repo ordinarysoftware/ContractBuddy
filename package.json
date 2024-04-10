@@ -9,15 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geshan/summarizer-gemini.git"
+    "url": "git+https://github.com/ordinarysoftware/CotractBuddy.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/geshan/summarizer-gemini/issues"
-  },
-  "homepage": "https://github.com/geshan/summarizer-gemini#readme",
+  "license": "ISC",  
   "dependencies": {
     "@geshan/axrio": "^1.0.1",
     "@google-cloud/vertexai": "^0.4.0",
